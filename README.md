@@ -210,3 +210,46 @@ Website availability monitoring via geo-targeted proxies with Telegram alerts
 </tr>
 </table>
 </div>
+
+<h3 align="center">AI</h3>
+
+<div align="center">
+<table cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" width="96" style="padding: 8px;">
+    <a href="https://claude.ai/" target="_blank">
+      <img src="https://cdn.simpleicons.org/anthropic/D4A574" alt="Claude" width="50" height="50"/>
+    </a>
+  </td>
+  <td align="center" width="96" style="padding: 8px;">
+    <a href="https://chat.openai.com/" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/14957082?s=200" alt="ChatGPT" width="50" height="50"/>
+    </a>
+  </td>
+  <td align="center" width="96" style="padding: 8px;">
+    <a href="https://github.com/features/copilot" target="_blank">
+      <img src="https://cdn.simpleicons.org/githubcopilot/000000" alt="Copilot" width="50" height="50"/>
+    </a>
+  </td>
+  <td align="center" width="96" style="padding: 8px;">
+    <a href="https://gemini.google.com/" target="_blank">
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="50" height="50"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center" style="padding: 8px;">
+    <img src="https://img.shields.io/badge/Claude-D4A574?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
+  </td>
+  <td align="center" style="padding: 8px;">
+    <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </td>
+  <td align="center" style="padding: 8px;">
+    <img src="https://img.shields.io/badge/Copilot-000?style=flat&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+  </td>
+  <td align="center" style="padding: 8px;">
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  </td>
+</tr>
+</table>
+</div>
