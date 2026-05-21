@@ -17,53 +17,72 @@ QA Engineer focused on test automation and ensuring software quality
 
 
 
-## Featured Automation Portfolio
+<h2 align="center">Featured Portfolio</h2>
 
-<h3 align="center">Mobile Automation — <a href="https://github.com/BogdanYushkov/appium-e2e-tests">appium-e2e-tests</a></h3>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Mobile Automation** — [appium-e2e-tests](https://github.com/BogdanYushkov/appium-e2e-tests)
 
 WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allure reporting
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&logo=webdriverio&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FC0?style=flat&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
-<h3 align="center">E2E Web Tests (Playwright) — <a href="https://github.com/BogdanYushkov/Playwright-e2e-tests">Playwright-e2e-tests</a></h3>
+**E2E Web Tests (Playwright)** — [Playwright-e2e-tests](https://github.com/BogdanYushkov/Playwright-e2e-tests)
 
 Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Feature/Story/Severity)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FC0?style=flat&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="center">E2E Web Tests (Selenium) — <a href="https://github.com/BogdanYushkov/selenium-e2e-tests">selenium-e2e-tests</a></h3>
+**E2E Web Tests (Selenium)** — [selenium-e2e-tests](https://github.com/BogdanYushkov/selenium-e2e-tests)
 
 Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
-<h3 align="center">Game Automation — <a href="https://github.com/BogdanYushkov/UE5-gameplay-automation-tests">UE5-gameplay-automation-tests</a></h3>
+**Game Automation** — [UE5-gameplay-automation-tests](https://github.com/BogdanYushkov/UE5-gameplay-automation-tests)
 
 Gameplay automation tests for Unreal Engine 5 using Blueprints
 
+<br>
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<h3 align="center">Monitoring Tool — <a href="https://github.com/BogdanYushkov/url-availability-checker">url-availability-checker</a></h3>
+**Monitoring Tool** — [url-availability-checker](https://github.com/BogdanYushkov/url-availability-checker)
 
 Website availability monitoring via geo-targeted proxies with Telegram alerts
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
+</td>
+</tr>
+</table>
 
 
-## Technologies And Tools
 
-### Automation
-<div>
-<table align="center" cellspacing="0" cellpadding="0">
+<h2 align="center">Technologies And Tools</h2>
+
+<h3 align="center">Automation</h3>
+
+<div align="center">
+<table cellspacing="0" cellpadding="0">
 <tr>
   <td align="center" width="96" style="padding: 8px;">
     <a href="https://appium.io/" target="_blank">
@@ -87,9 +106,10 @@ Website availability monitoring via geo-targeted proxies with Telegram alerts
 </table>
 </div>
 
-### CI/CD & Platforms
-<div>
-<table align="center" cellspacing="0" cellpadding="0">
+<h3 align="center">CI/CD & Platforms</h3>
+
+<div align="center">
+<table cellspacing="0" cellpadding="0">
 <tr>
   <td align="center" width="96" style="padding: 8px;">
     <a href="https://github.com/features/actions" target="_blank">
@@ -113,9 +133,10 @@ Website availability monitoring via geo-targeted proxies with Telegram alerts
 </table>
 </div>
 
-### Tools
-<div>
-<table align="center" cellspacing="0" cellpadding="0">
+<h3 align="center">Tools</h3>
+
+<div align="center">
+<table cellspacing="0" cellpadding="0">
 <tr>
   <td align="center" width="96" style="padding: 8px;">
     <a href="https://allurereport.org/" target="_blank">
@@ -155,9 +176,10 @@ Website availability monitoring via geo-targeted proxies with Telegram alerts
 </table>
 </div>
 
-### Project Management
-<div>
-<table align="center" cellspacing="0" cellpadding="0">
+<h3 align="center">Project Management</h3>
+
+<div align="center">
+<table cellspacing="0" cellpadding="0">
 <tr>
   <td align="center" width="96" style="padding: 8px;">
     <a href="https://www.atlassian.com/software/jira" target="_blank">
