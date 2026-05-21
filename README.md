@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
-  <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
+  <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=6000&pause=1000&color=000000&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
 </picture>
 
 #
@@ -19,15 +19,15 @@ QA Engineer focused on test automation and ensuring software quality
 
 ## Featured Automation Portfolio
 
-:iphone: **Mobile Automation**: [MobileAutotests](https://github.com/BogdanYushkov/MobileAutotests) — WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allure reporting
+:iphone: **Mobile Automation**: [mobile-autotests](https://github.com/BogdanYushkov/mobile-autotests) — WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allure reporting
 
 :performing_arts: **E2E Web Tests (Playwright)**: [Playwright-e2e-tests](https://github.com/BogdanYushkov/Playwright-e2e-tests) — Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Feature/Story/Severity)
 
-:microscope: **E2E Web Tests (Selenium)**: [SeleniumWebDriver-e2e-tests](https://github.com/BogdanYushkov/SeleniumWebDriver-e2e-tests) — Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
+:microscope: **E2E Web Tests (Selenium)**: [selenium-e2e-tests](https://github.com/BogdanYushkov/selenium-e2e-tests) — Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
 
 :video_game: **Game Automation**: [UE5-gameplay-automation-tests](https://github.com/BogdanYushkov/UE5-gameplay-automation-tests) — Gameplay automation tests for Unreal Engine 5 using Blueprints
 
-:globe_with_meridians: **Monitoring Tool**: [Url-availability-checker-with-proxies](https://github.com/BogdanYushkov/Url-availability-checker-with-proxies) — Website availability monitoring via geo-targeted proxies with Telegram alerts
+:globe_with_meridians: **Monitoring Tool**: [url-availability-checker](https://github.com/BogdanYushkov/url-availability-checker) — Website availability monitoring via geo-targeted proxies with Telegram alerts
 
 
 
