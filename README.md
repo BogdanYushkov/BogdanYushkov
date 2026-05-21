@@ -63,13 +63,22 @@ Gameplay automation tests for Unreal Engine 5 using Blueprints
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 **Monitoring Tool** — [url-availability-checker](https://github.com/BogdanYushkov/url-availability-checker)
 
 Website availability monitoring via geo-targeted proxies with Telegram alerts
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**QA Documentation** — [qa-portfolio-docs](https://github.com/BogdanYushkov/qa-portfolio-docs)
+
+QA documentation showcase — test plan, strategy, test cases, bug reports, and checklists
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 </td>
 </tr>
