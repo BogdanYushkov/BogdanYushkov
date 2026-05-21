@@ -23,7 +23,7 @@ QA Engineer focused on test automation and ensuring software quality
 <tr>
 <td width="50%" valign="top">
 
-**Mobile Automation** — [appium-e2e-tests](https://github.com/BogdanYushkov/appium-e2e-tests)
+### [**Mobile Automation**](https://github.com/BogdanYushkov/appium-e2e-tests)
 
 WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allure reporting
 
@@ -32,7 +32,7 @@ WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allur
 </td>
 <td width="50%" valign="top">
 
-**E2E Web Tests (Playwright)** — [Playwright-e2e-tests](https://github.com/BogdanYushkov/Playwright-e2e-tests)
+### [**E2E Web Tests (Playwright)**](https://github.com/BogdanYushkov/Playwright-e2e-tests)
 
 Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Feature/Story/Severity)
 
@@ -43,7 +43,7 @@ Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Fe
 <tr>
 <td width="50%" valign="top">
 
-**E2E Web Tests (Selenium)** — [selenium-e2e-tests](https://github.com/BogdanYushkov/selenium-e2e-tests)
+### [**E2E Web Tests (Selenium)**](https://github.com/BogdanYushkov/selenium-e2e-tests)
 
 Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
 
@@ -52,7 +52,7 @@ Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
 </td>
 <td width="50%" valign="top">
 
-**Game Automation** — [UE5-gameplay-automation-tests](https://github.com/BogdanYushkov/UE5-gameplay-automation-tests)
+### [**Game Automation**](https://github.com/BogdanYushkov/UE5-gameplay-automation-tests)
 
 Gameplay automation tests for Unreal Engine 5 using Blueprints
 
@@ -65,7 +65,7 @@ Gameplay automation tests for Unreal Engine 5 using Blueprints
 <tr>
 <td width="50%" valign="top">
 
-**Monitoring Tool** — [url-availability-checker](https://github.com/BogdanYushkov/url-availability-checker)
+### [**Monitoring Tool**](https://github.com/BogdanYushkov/url-availability-checker)
 
 Website availability monitoring via geo-targeted proxies with Telegram alerts
 
@@ -74,11 +74,11 @@ Website availability monitoring via geo-targeted proxies with Telegram alerts
 </td>
 <td width="50%" valign="top">
 
-**QA Documentation** — [qa-portfolio-docs](https://github.com/BogdanYushkov/qa-portfolio-docs)
+### [**QA Documentation**](https://github.com/BogdanYushkov/qa-portfolio-docs)
 
 QA documentation showcase — test plan, strategy, test cases, bug reports, and checklists
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-3884FF?style=flat&logo=gitbook&logoColor=white)
 
 </td>
 </tr>
