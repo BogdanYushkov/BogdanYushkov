@@ -29,6 +29,8 @@ WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allur
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&logo=webdriverio&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FC0?style=flat&logoColor=white)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -37,6 +39,8 @@ WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allur
 Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Feature/Story/Severity)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FC0?style=flat&logoColor=white)
+
+<br>
 
 </td>
 </tr>
@@ -49,6 +53,8 @@ Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -59,6 +65,8 @@ Gameplay automation tests for Unreal Engine 5 using Blueprints
 <br>
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unrealengine&logoColor=white)
+
+<br>
 
 </td>
 </tr>
@@ -71,6 +79,8 @@ Website availability monitoring via geo-targeted proxies with Telegram alerts
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -79,6 +89,8 @@ Website availability monitoring via geo-targeted proxies with Telegram alerts
 QA documentation showcase — test plan, strategy, test cases, bug reports, and checklists
 
 ![Documentation](https://img.shields.io/badge/Documentation-3884FF?style=flat&logo=gitbook&logoColor=white)
+
+<br>
 
 </td>
 </tr>
