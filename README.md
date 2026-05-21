@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
-  <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=6000&pause=1000&color=000000&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
+  <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=600&size=36&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I%27m+Bogdan+Yushkov+%F0%9F%91%8B">
 </picture>
 
 #
@@ -19,15 +19,63 @@ QA Engineer focused on test automation and ensuring software quality
 
 ## Featured Automation Portfolio
 
-:iphone: **Mobile Automation**: [mobile-autotests](https://github.com/BogdanYushkov/mobile-autotests) — WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allure reporting
+<br>
 
-:performing_arts: **E2E Web Tests (Playwright)**: [Playwright-e2e-tests](https://github.com/BogdanYushkov/Playwright-e2e-tests) — Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Feature/Story/Severity)
+**Mobile Automation** — [appium-e2e-tests](https://github.com/BogdanYushkov/appium-e2e-tests)
 
-:microscope: **E2E Web Tests (Selenium)**: [selenium-e2e-tests](https://github.com/BogdanYushkov/selenium-e2e-tests) — Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
+WebdriverIO + Appium mobile test suite for Android with CI/CD pipeline and Allure reporting
 
-:video_game: **Game Automation**: [UE5-gameplay-automation-tests](https://github.com/BogdanYushkov/UE5-gameplay-automation-tests) — Gameplay automation tests for Unreal Engine 5 using Blueprints
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&logo=webdriverio&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FC0?style=flat&logoColor=white)
 
-:globe_with_meridians: **Monitoring Tool**: [url-availability-checker](https://github.com/BogdanYushkov/url-availability-checker) — Website availability monitoring via geo-targeted proxies with Telegram alerts
+<br>
+
+---
+
+<br>
+
+**E2E Web Tests (Playwright)** — [Playwright-e2e-tests](https://github.com/BogdanYushkov/Playwright-e2e-tests)
+
+Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Feature/Story/Severity)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FC0?style=flat&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+**E2E Web Tests (Selenium)** — [selenium-e2e-tests](https://github.com/BogdanYushkov/selenium-e2e-tests)
+
+Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+**Game Automation** — [UE5-gameplay-automation-tests](https://github.com/BogdanYushkov/UE5-gameplay-automation-tests)
+
+Gameplay automation tests for Unreal Engine 5 using Blueprints
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unrealengine&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+**Monitoring Tool** — [url-availability-checker](https://github.com/BogdanYushkov/url-availability-checker)
+
+Website availability monitoring via geo-targeted proxies with Telegram alerts
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+
+<br>
 
 
 
