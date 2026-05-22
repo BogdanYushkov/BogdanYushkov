@@ -47,11 +47,11 @@ Playwright E2E suite with Page Object Model, fixtures, Allure reporting (Epic/Fe
 <tr>
 <td width="50%" valign="top">
 
-### [**E2E Web Tests (Selenium)**](https://github.com/BogdanYushkov/selenium-e2e-tests)
+### [**API + DB Testing**](https://github.com/BogdanYushkov/api-db-testing)
 
-Selenium + Pytest E2E test suite with POM, Docker, and pytest-html reports
+FastAPI e-commerce service tested with pytest, PostgreSQL validation, JWT auth testing
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FC0?style=flat&logoColor=white)
 
 <br>
 
